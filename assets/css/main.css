@@ -3139,6 +3139,10 @@
 		left: 70%;
 	}
 
+	.image.thumb > .gh-only:after {
+		left: 50%;
+	}
+
 	.image.thumb:hover > .live:after,
 	.image.thumb:hover > .github:after {
 		opacity: 1.0;
