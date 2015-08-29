@@ -1620,12 +1620,12 @@
 	}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 1.75em;
 		line-height: 1.5em;
 	}
 
 	h3 {
-		font-size: 1.25em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
@@ -2449,14 +2449,18 @@
 		}
 
 		.work-item h3 {
-			font-size: 1em;
+			font-size: 1.25em;
 			margin: 0 0 0.5em 0;
 		}
 
 		.work-item p {
-			font-size: 0.8em;
+			font-size: 1em;
 			line-height: 1.5em;
 			margin: 0;
+		}
+
+		.work-item ul {
+			font-size: 0.9em;
 		}
 
 /* Header */
