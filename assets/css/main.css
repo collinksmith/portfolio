@@ -3218,3 +3218,7 @@
 	  top: 5%;
 	  left: 15%;
 	}
+
+	#one p {
+		font-size: 1.2em;
+	}
