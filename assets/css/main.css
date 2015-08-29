@@ -2070,7 +2070,7 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 50%;
 		}
 
 			.image.fit img {
@@ -2444,23 +2444,28 @@
 		margin: 0 0 2em 0;
 	}
 
+	.work-item:last-child {
+		margin: 0;
+	}
+
 		.work-item .image {
 			margin: 0 0 1.5em 0;
 		}
 
 		.work-item h3 {
-			font-size: 1.25em;
+			font-size: 1.5em;
 			margin: 0 0 0.5em 0;
 		}
 
 		.work-item p {
-			font-size: 1em;
+			font-size: 1.2em;
 			line-height: 1.5em;
 			margin: 0;
 		}
 
 		.work-item ul {
-			font-size: 0.9em;
+			margin-top: 0.5em;
+			font-size: 1em;
 		}
 
 /* Header */
@@ -2552,7 +2557,7 @@
 	#main {
 		margin-left: 35%;
 		max-width: 54em;
-		padding: 8em 3em 4em 3em;
+		padding: 8em 4em 4em 4em;
 		width: calc(100% - 35%);
 	}
 
