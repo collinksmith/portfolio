@@ -1620,7 +1620,8 @@
 	}
 
 	h2 {
-		font-size: 1.75em;
+		font-size: 2em;
+		text-shadow: 1px 1px 1px #333333;
 		line-height: 1.5em;
 	}
 
