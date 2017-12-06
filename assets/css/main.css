@@ -2071,7 +2071,7 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 50%;
+			width: 100%;
 		}
 
 			.image.fit img {
@@ -3222,4 +3222,18 @@
 
 	#one p {
 		font-size: 1.2em;
+	}
+
+	.group:after {
+	  content: "";
+	  display: block;
+	  clear: both;
+	}
+
+	.work-item-thumb {
+		float: left;
+	}
+
+	.work-item-skills {
+		float:left;
 	}
